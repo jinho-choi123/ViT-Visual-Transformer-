@@ -3,7 +3,7 @@
 .DS_Store
 .venv/
 rawdata/
-models/
+data/
 
 
 ### JupyterNotebooks ###
